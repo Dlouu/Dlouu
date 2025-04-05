@@ -1,7 +1,5 @@
 🍋 I'm Dlou,<br>
-💾 I’m currently learning C with 42 school
-
-I already regret to write this README.md file because it's just EMPTY.<br>
+💾 I’m currently learning code with 42 school.<br>
 Let's code! ✨
 
 <!---
